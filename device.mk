@@ -86,4 +86,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/infinix/AGo-64/AGo-64-vendor.mk)
+$(call inherit-product, vendor/infinix/AGo_64/AGo_64-vendor.mk)
